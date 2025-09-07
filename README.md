@@ -1,29 +1,20 @@
-# payment-method
+# Node Version
+Node version 22.14.0
 
-This template should help get you started developing with Vue 3 in Vite.
+# Vue version 
+Vue version 3.15.8
 
-## Recommended IDE Setup
+## First Step Clone this project
+```
+git clone https://github.com/EterHub/Payment-Method.git
+```
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
-
-## Project Setup
-
-```sh
+## Second step install package
+```
 npm install
 ```
 
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
+## Finally 
 ```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
+npm run dev
 ```
